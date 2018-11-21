@@ -9,4 +9,8 @@ public class HellowordApplication {
     public static void main(String[] args) {
         SpringApplication.run(HellowordApplication.class, args);
     }
+
+    public void test(){
+        System.out.println("你好啊！");
+    }
 }
