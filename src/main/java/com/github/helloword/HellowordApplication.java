@@ -11,6 +11,6 @@ public class HellowordApplication {
     }
 
     public void test(){
-        System.out.println("你好啊！");
+        System.out.println("你好啊！我是李章裕");
     }
 }
